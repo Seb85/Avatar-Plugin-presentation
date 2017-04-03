@@ -1,1 +1,0 @@
-# Avatar-Plugin-presentation
