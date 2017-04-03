@@ -1,0 +1,9 @@
+{
+	"modules" : { 
+		"presentation"  : {
+			"description": "SARAH se presente",
+			"version": "1.0",
+			"rules" : ["introduce"]
+		}
+	}
+}
