@@ -11,7 +11,7 @@ Avatar se présente
 - Dézippez le fichier `Avatar-Plugin-presentation-Master.zip` dans un répertoire temporaire
 - Copiez le répertoire `presentation` dans le répertoire `Avatar-Serveur/plugins`
 - Copiez le fichier `intents/intent.presentation.js`dans le répertoire `Avatar-Serveur/ia/intents/`
-- Copiez le fichier `actions/action.present` dans le répertoire `Avatar-Serveur/ia/actions/`
+- Copiez le fichier `actions/action.present.js` dans le répertoire `Avatar-Serveur/ia/actions/`
 - Editez le fichier `Avatar-Serveur/ia/actions/index.js`, allez à la fin du fichier et juste avant `function _interopRequireDefault(obj)` ajoutez les lignes suivantes:
 
 ```javascript
