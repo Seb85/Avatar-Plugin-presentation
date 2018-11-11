@@ -3,6 +3,7 @@
 		"presentation"  : {
 			"description": "SARAH se presente",
 			"version": "1.0",
+			"active" : true,
 			"rules" : ["introduce"]
 		}
 	}
